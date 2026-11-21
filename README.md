@@ -1,5 +1,7 @@
 # Webpulse AutoOrder Engine - E-Commerce and Social Commerce Automation Pipeline
 
+[![Facebook Official Page](https://img.shields.io/badge/Facebook_Page-Webpulse_Automation-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/webpulseautomation)
+
 An event-driven order processing and automated invoicing engine engineered for digital storefronts and social commerce businesses. Built with Node.js, Express, Chokidar, PDFKit, and Meta Graph API Webhooks.
 
 ---
@@ -131,7 +133,7 @@ META_PAGE_ACCESS_TOKEN=your_facebook_page_access_token
 ```bash
 npm start
 ```
-Access the operational dashboard at `http://localhost:3000`.
+Access the operational dashboard at `[http://localhost:3000](http://localhost:3000) (Live Automation Service: [facebook.com/webpulseautomation](https://www.facebook.com/webpulseautomation))`.
 
 - Option B: Run the Headless Desktop Bot
 ```bash
